@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Logs and analytics
+logs/
+*.log
+*.csv
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

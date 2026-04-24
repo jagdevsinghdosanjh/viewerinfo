@@ -1,0 +1,6 @@
+[project]
+name = "viewerinfo"
+version = "0.1.0"
+description = "Viewer info package"
+requires-python = ">=3.8"
+dependencies = ["requests", "user-agents"]
